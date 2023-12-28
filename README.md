@@ -32,7 +32,7 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/kosareva/" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
-    <a href="https://t.me/ritakosareva" target="_blank">
+    <a href="https://t.me/ritatattle" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
