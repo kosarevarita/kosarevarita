@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 
 Я тестировщик программного обеспечения. Осуществляю функциональное, регрессионное, смоук тестирование, тестирование пользовательского интерфейса десктоп, веб и мобильных (android) приложений.
 
-📫 Контакты: [![LinkedIn Badge](https://img.shields.io/badge/-@ritakosareva-green?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ritakosareva/) [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kosareva.m.v@ya.ru)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ritatattle/)
+📫 Контакты: 
+[![Telegram Badge](https://img.shields.io/badge/-@ritatattle-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/ritatattle/)
+[![LinkedIn Badge](https://img.shields.io/badge/-@ritakosareva-green?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ritakosareva/) 
+[![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:kosareva.m.v@ya.ru)
+
 
 
 ---
